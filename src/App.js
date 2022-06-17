@@ -57,6 +57,7 @@ import React from "react";
           placeholder= "Age"
 
         />
+        <br />
 
          <label>
           <input
